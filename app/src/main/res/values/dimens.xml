@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="editTextSize_login">22sp</dimen>
+    <dimen name="padding">30dp</dimen>
+    <dimen name="dontHaveAccount">16sp</dimen>
+    <dimen name="editText_margin_top">10sp</dimen>
+</resources>

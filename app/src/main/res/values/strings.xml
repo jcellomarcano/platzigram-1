@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre De Usuario</string>
+    <string name="hint_password">Contrasena</string>
+    <string name="hint_repeate_passwor">Confirmar Contrasena</string>
+    <string name="button_login_text">Log In</string>
+    <string name="dontHaveAccount">No Tienes Cuenta?, </string>
+    <string name="createHere"> crea una aqui</string>
+    <string name="email">Correo</string>
+    <string name="name">Nombre</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Crear">Crear</string>
+    <string name="create_account_tittle">Crear Cuenta</string>
+</resources>

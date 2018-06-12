@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login_text">Log In</string>
+    <string name="dontHaveAccount"> You dont have an account?, </string>
+    <string name="createHere"> create one</string>
+    <string name="email">email</string>
+    <string name="Usuario">User</string>
+    <string name="Crear">Crear</string>
+    <string name="create_account_tittle">Create Account</string>
+</resources>
